@@ -22,7 +22,7 @@ python pre_process_sysu.py
 ```
 python train.py --dataset sysu --lr 0.01 --drop 0.0 --trial 1 --gpu 1 --epochs 60 --w_hc 0.5 --per_img 8 
 ```
- (Notice that you need to set the 88 line in train.py to your SYSU-MM01 dataset path)
+* (Notice that you need to set the 88 line in train.py to your SYSU-MM01 dataset path)
 
 3. evaluate model(single-shot all-search)
 ```
