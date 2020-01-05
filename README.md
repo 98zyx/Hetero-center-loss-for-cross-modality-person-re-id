@@ -47,7 +47,7 @@ Most of the code are borrowed by https://github.com/mangye16/Cross-Modal-Re-ID-b
 
 If you think this project useful, please give me a Star and cite the follow paper:
 
-1.Zhu Y, Yang Z, Wang L, et al. Hetero-Center Loss for Cross-Modality Person Re-Identification[J]. Neurocomputing, 2019.
+[1] Zhu Y, Yang Z, Wang L, et al. Hetero-Center Loss for Cross-Modality Person Re-Identification[J]. Neurocomputing, 2019.
 
-2.Ye M, Lan X, Wang Z, et al. Bi-directional Center-Constrained Top-Ranking for Visible Thermal Person Re-Identification[J]. IEEE Transactions on Information Forensics and Security, 2019.
+[2] Ye M, Lan X, Wang Z, et al. Bi-directional Center-Constrained Top-Ranking for Visible Thermal Person Re-Identification[J]. IEEE Transactions on Information Forensics and Security, 2019.
 
