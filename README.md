@@ -1,16 +1,19 @@
 # Hetero-center-loss-for-cross-modality-person-re-id
 Code for paper "Hetero-center loss for cross-modality person re-identification"
 
+
 ## Requirments:
 **pytorch: 0.4.1(the higher version may lead to performance fluctuation)**
 torchvision: 0.2.1
 numpy: 1.17.4
 python: 3.7
 
+
 ## Dataset:
 **SYSU-MM01**
 
 **Reg-DB**
+
 
 ## Run:
 ### SYSU-MM01:
@@ -39,6 +42,7 @@ python train.py --dataset regdb --lr 0.01 --drop 0.0 --trial 1 --gpu 1 --epochs 
 ```
 python test.py --dataset regdb --lr 0.01 --drop 0.0 --trial 1 --gpu 1 --low-dim 512 --resume 'Your model name' --w_hc 0.5  --model_path 'Your model path'
 ```
+
 
 ## Tips:
 Because this is the first time I use Github to release my code, maybe this project is a little difficult to read and use. If you have any question, please don't hesitate to contact me (zhuyuanxin98@outlook.com). I will reply to you as soon as possible.
