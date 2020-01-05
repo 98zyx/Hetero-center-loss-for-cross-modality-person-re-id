@@ -55,7 +55,7 @@ python test.py --dataset regdb --lr 0.01 --drop 0.0 --trial 1 --gpu 1 --low-dim 
 ## Tips:
 Because this is the first time I use Github to release my code, maybe this project is a little difficult to read and use. If you have any question, please don't hesitate to contact me (zhuyuanxin98@outlook.com). I will reply to you as soon as possible.
 
-Most of the code are borrowed by https://github.com/mangye16/Cross-Modal-Re-ID-baseline. I am very grateful to the author (@[mangye16](https://github.com/mangye16)) for his contribution and help.
+Most of the code are borrowed from https://github.com/mangye16/Cross-Modal-Re-ID-baseline. I am very grateful to the author (@[mangye16](https://github.com/mangye16)) for his contribution and help.
 
 **If you think this project useful, please give me a star and cite the follow paper:**
 
