@@ -46,6 +46,11 @@ python train.py --dataset regdb --lr 0.01 --drop 0.0 --trial 1 --gpu 1 --epochs 
 python test.py --dataset regdb --lr 0.01 --drop 0.0 --trial 1 --gpu 1 --low-dim 512 --resume 'Your model name' --w_hc 0.5  --model_path 'Your model path'
 ```
 
+## Results:
+ 表头  | 表头  | 表头
+ ---- | ----- | ------  
+ 单元格内容  | 单元格内容 | 单元格内容 
+ 单元格内容  | 单元格内容 | 单元格内容  
 
 ## Tips:
 Because this is the first time I use Github to release my code, maybe this project is a little difficult to read and use. If you have any question, please don't hesitate to contact me (zhuyuanxin98@outlook.com). I will reply to you as soon as possible.
