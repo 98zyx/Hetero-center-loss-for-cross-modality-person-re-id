@@ -45,7 +45,7 @@ Because this is the first time I use Github to release my code, maybe this proje
 
 Most of the code are borrowed by https://github.com/mangye16/Cross-Modal-Re-ID-baseline. I am very grateful to the author (@[mangye16](https://github.com/mangye16)) for his contribution and help.
 
-## If you think this project useful, please give me a Star and cite the follow paper:
+**If you think this project useful, please give me a star and cite the follow paper:**
 
 [1] Zhu Y, Yang Z, Wang L, et al. Hetero-Center Loss for Cross-Modality Person Re-Identification[J]. Neurocomputing, 2019.
 
