@@ -49,8 +49,8 @@ python test.py --dataset regdb --lr 0.01 --drop 0.0 --trial 1 --gpu 1 --low-dim 
 ## Results:
  Dataset | Rank1  | mAP | model
  ---- | ----- | ------  | -----
- SYSU-MM01  | ~56% | ~54% |
- RegDB | ~83% | ~72%  |
+ SYSU-MM01  | ~56% | ~54% | [BaiduYun(code:y2em)](https://pan.baidu.com/s/1Ty1WCBVUZvzGk-cQLK432w)
+ RegDB | ~83% | ~72%  | [BaiduYun(code:y2em)](https://pan.baidu.com/s/1Ty1WCBVUZvzGk-cQLK432w)
 
 ## Tips:
 Because this is the first time I use Github to release my code, maybe this project is a little difficult to read and use. If you have any question, please don't hesitate to contact me (zhuyuanxin98@outlook.com). I will reply to you as soon as possible.
