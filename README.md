@@ -4,8 +4,11 @@ Code for paper "Hetero-center loss for cross-modality person re-identification"
 
 ## Requirments:
 **pytorch: 0.4.1(the higher version may lead to performance fluctuation)**
+
 torchvision: 0.2.1
+
 numpy: 1.17.4
+
 python: 3.7
 
 
