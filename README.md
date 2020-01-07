@@ -1,6 +1,9 @@
 # Hetero-center-loss-for-cross-modality-person-re-id
 Code for paper "Hetero-center loss for cross-modality person re-identification"
 
+## Update:
+2020-01-07:
+we fix up a bug in learning rate schedule, before that only the first three parameter group's learning rate will be correctly decay to 1/10, after that our model's performance slightly increased.
 
 ## Requirments:
 **pytorch: 0.4.1(the higher version may lead to performance fluctuation)**
