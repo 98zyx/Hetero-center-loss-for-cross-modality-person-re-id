@@ -265,6 +265,16 @@ def adjust_learning_rate(optimizer, epoch):
     optimizer.param_groups[0]['lr'] = 0.1*lr
     optimizer.param_groups[1]['lr'] = lr
     optimizer.param_groups[2]['lr'] = lr
+    optimizer.param_groups[3]['lr'] = lr
+    optimizer.param_groups[4]['lr'] = lr
+    optimizer.param_groups[5]['lr'] = lr
+    optimizer.param_groups[6]['lr'] = lr
+    optimizer.param_groups[7]['lr'] = lr
+    optimizer.param_groups[8]['lr'] = lr
+    optimizer.param_groups[9]['lr'] = lr
+    optimizer.param_groups[10]['lr'] = lr
+    optimizer.param_groups[11]['lr'] = lr
+    optimizer.param_groups[12]['lr'] = lr
     return lr
     
 def train(epoch, loss_log):
