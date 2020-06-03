@@ -3,7 +3,7 @@ Code for paper "Hetero-center loss for cross-modality person re-identification"
 
 ## Update:
 2020-06-03：
-Because pytorch allocate the data of a batch to each gpu when using multi-gpus, the loss may be incorrectly computed. The users may need to use single gpu to reproduce the experimental results in the paper.
+Because pytorch  split the data of a batch to each gpu when using multi-gpus, the loss may be incorrectly computed. The users may need to use single gpu to reproduce the experimental results in the paper.
 
 2020-01-07:
 we fix up a bug in learning rate schedule, before that only the first three parameter group's learning rate will be correctly decay to 1/10. However, after fixing up the bug, the model's performance still stay the same. The updated model and code have been upload.
